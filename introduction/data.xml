@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Symboles de soudage" duree="8 minutes">
+	<LESSON nom="Introduction au cours">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>intro/intro-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE>Bienvenue au cours en ligne sur la symbolisation en soudage.</LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>intro/intro-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[L’approche d’apprentissage envisagée pour ce cours repose sur :<br /><br />- des exercices multimédias interactifs présentés sous forme d’étapes d’un processus de travail ;<br />- le développement progressif des habiletés à travers la réalisation d’exercices de simulation gradués du plus simple au plus complexe ;<br />- des exercices d’évaluation également basés sur les étapes du processus de travail.<br /><br />La formation mise sur les différents éléments du multimédia (son, images et interactivité) pour simuler les décisions et les actions à poser lors de l’exécution de la tâche.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>intro/intro-p3.swf</SOURCE>
+			<NARRATION>
+				<LETEXTE scroll=""><![CDATA[Le modèle d’apprentissage proposé dans ce cours permet de partager le temps d’apprentissage pour chaque module de la façon suivante :<br /><br />- 15 % du temps est consacré à la transmission de la matière ;<br />- 75 % du temps est consacré à la visualisation, à la manipulation et à l’appropriation de la matière ;<br />- 10 % du temps est consacré à la confirmation de l’assimilation de la matière.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="true">
+			<SOURCE>intro/intro-p4.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Le processus de diffusion de ce cours est le suivant :<br /><br />Chaque notion concernant un symbole donné est suivie d’exercices interactifs.<br /><br />Lorsque toutes les notions d’une leçon sont transmises et que tous les exercices sont complétés, l’apprenant doit réaliser un exercice synthèse.<br /><br />Lorsque toutes les leçons d’un module sont complétées, l’apprenant doit réaliser un exercice synthèse portant sur l’ensemble du module.<br /><br />Lorsque l’exercice synthèse du module est terminé, l’apprenant doit subir une évaluation formative du module afin de confirmer l’assimilation de la matière avant de passer au module suivant.<br /><br />À la fin du cours, l’apprenant doit compléter une évaluation sommative portant sur l’ensemble des symboles de soudage afin de confirmer l’assimilation de la matière du cours.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="false">
+			<SOURCE>intro/intro-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>intro/intro-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="true">
+			<SOURCE>intro/intro-p7.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[L’expression « tôle mince » utilisée dans l’industrie désigne une tôle d’une épaisseur variant entre 0,024 pouce et 0,25 pouce.<br /><br />Il est à noter que plusieurs systèmes de mesure sont utilisés pour identifier les épaisseurs de tôle mince.<br /><br />Dans le secteur de la ferblanterie, entre autres, on utilise une unité de mesure nommée le « gauge ». On parlera par exemple d’une tôle de 11 gauges.<br /><br />Par contre, dans les secteurs de la tôlerie de précision et de l’aéronautique, on utilise le pouce comme unité de mesure.<br /><br />On parle ici de millième de pouce (par exemple, une tôle de 0,125 pouce).<br /><br />L’expression « tôle forte » utilisée dans l’industrie désigne une tôle d’une épaisseur de plus de ¼ de pouce.<br /><br />Notez bien que les plusieurs secteurs de la tôle forte utilisent deux systèmes de mesure :<br /><br />- le système impérial, ayant comme unités de mesure le pouce et le pied.<br />- le système international ou métrique, qui utilise comme unité de mesure le mètre, le centimètre et le millimètre. Des secteurs de la tôle forte utilisent d’ailleurs le millimètre comme unité de mesure lorsqu’ils utilisent le système international ou métrique.<br /><br />Voici un exemple d’utilisation des quatre unités de mesure pour identifier la même épaisseur d’une tôle d’acier :<br /><br />- pour le secteur de la tôle mince : 0,125 pouce en système impérial ;<br />- pour le secteur de la tôle mince : 11 gauges ;<br />- pour le secteur de la tôle forte : 1/8 de pouce en système impérial ;<br />- pour le secteur de la tôle forte : 3 millimètres en système international.<br /><br />Pour les besoins de ce cours, nous utiliserons les unités de mesures suivantes :<br /><br />- Tôle mince : millième de pouce (système impérial) ;<br />- Tôle forte : millimètre (système international).]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="true">
+			<SOURCE>intro/intro-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Afin d’assimiler efficacement toutes ces notions, il importe toutefois de savoir comment naviguer à travers les pages des différentes leçons et surtout, comment utiliser le compositeur, un outil d’apprentissage interactif spécialement créé dans le cadre de ce cours.<br /><br />Je vous invite donc à cliquer sur les boutons suivants afin de faire la rencontre de Jean-Paul, qui vous expliquera le fonctionnement de l’interface du cours, ainsi que celui du compositeur.<br /><br />Lorsque vous aurez visionné les deux tutoriels, cliquez sur le bouton "Page suivante" pour poursuivre cette introduction.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="true">
+			<SOURCE>intro/intro-p9.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Entrons dans le vif du sujet. Voici un assemblage en T avec une préparation en demi-V et leurs annotations. Juste à côté, on aperçoit le symbole de soudage qui donne toutes les informations pour la fabrication de cet assemblage.<br /><br />Cela semble compliqué, mais ne vous en faites pas trop, ce n’est qu’à la fin de ce cours que vous pourrez lire et construire des symboles aussi complexes… Soyez assurés que nous allons procéder étape par étape afin d’acquérir les connaissances et les habiletés nécessaires. Si je vous montre ce symbole maintenant, c’est seulement afin que vous puissiez savoir ce à quoi ressemble exactement un symbole de soudage complexe.<br /><br />Quelle que soit l’option de cours que vous aurez choisie, vous devrez débuter votre formation par le module 1 : Symboles de soudage et assemblages de base. Ce premier module traite de la symbolisation en soudage en tant que système de communication, des assemblages, des symboles de soudage de base, des symboles de soudure et des symboles complémentaires.<br /><br />Au plaisir de vous revoir !]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>
