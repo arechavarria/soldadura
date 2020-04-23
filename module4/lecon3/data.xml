@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Soudure par points, soudure à la molette et soudure de goujon (TM)" duree="8 minutes">
+	<LESSON nom="Soudure de goujon">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l3-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue à cette troisième leçon du module 4.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l3-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l3-p3.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[La soudure de goujon et d’attache peut être exécutée de plusieurs façons : à l’arc électrique, par résistance, par friction et par percussion. L’arc électrique étant la technique la plus utilisée, c’est elle que nous retiendrons lors de cette leçon.<br /><br />On peut souder à l’arc électrique des goujons ainsi que d’autres attaches sur des pièces d’une épaisseur de 0,020 pouce et plus.<br /><br />Il existe plusieurs types d’attaches et de goujons. En voici quelques uns…]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l3-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de goujon devant être exécutée du côté de l’assemblage où pointe la flèche avec le procédé de soudage à l’arc des goujons (SW).<br /><br />Voici ensuite l’assemblage correspondant.<br /><br />Il est à noter que pour la soudure à l’arc des goujons, le symbole est toujours placé du côté de l’assemblage où pointe la flèche.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l3-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de goujon devant être exécutée avec le procédé de soudage à l’arc des goujons (SW). Le chiffre .125 situé à gauche du symbole de soudure indique le diamètre du goujon ou de l’attache.<br /><br />Voici maintenant l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l3-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de goujon devant être exécutée avec le procédé de soudage à l’arc des goujons (SW). Le chiffre 5 entre parenthèses, situé au-dessous du symbole de soudure, indique le nombre de goujons ou d’attaches.<br /><br />Et voici l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l3-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de goujon devant être exécutée avec le procédé de soudage à l’arc des goujons (SW). Le chiffre 4.00 situé à droite du symbole de soudure indique le pas des goujons ou des attaches.<br /><br />Il est à noter que les valeurs de localisation longitudinale et transversale du goujon ou de l’attache située près du rebord de la tôle doivent être indiquées sur le dessin.<br /><br />Voici ensuite l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l3-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de goujon devant être exécutée avec le procédé de soudage à l’arc des goujons (SW). Le chiffre .094 situé à gauche du symbole de soudure indique le diamètre du goujon ou de l’attache. Le chiffre 5 entre parenthèses, situé au dessous du symbole de soudure, indique le nombre de goujons ou d’attaches. Le chiffre 6.00 situé à droite du symbole de soudure indique le pas des goujons ou des attaches.<br /><br />Voici ensuite l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l3-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour ! Il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas?<br /><br />Alors que diriez-vous de mettre toutes ces notions en pratique? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur la soudure de goujon et d’attache.<br /><br />Cliquez sur « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l3-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l3-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l3-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l3-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l3-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l3-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations, vous terminez la troisième leçon du module 4.<br /><br />Votre prochaine étape : compléter les activités synthèses du module 4.<br /><br />C’est un rendez-vous à ne pas manquer ! Au plaisir de se revoir…]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>
