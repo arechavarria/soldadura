@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Soudure par points, soudure à la molette et soudure de goujon (TM)" duree="7 minutes">
+	<LESSON nom="Soudure par points">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l1-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue dans ce quatrième module.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l1-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l1-p3.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce module est constitué de 3 leçons, d’un exercice synthèse et d’une évaluation formative du module.<br /><br />La première leçon traite de soudure par points.<br /><br />La deuxième leçon traite de soudure à la molette.<br /><br />La troisième leçon traite de soudure de goujon.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l1-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l1-p5.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Le soudage par points sur tôle mince peut être exécuté avec plusieurs procédés de soudage. Les procédés les plus utilisés sont le soudage par résistance par points (RSW), le soudage par bossages (PW), le soudage à l’arc sous gaz avec électrode de tungstène (GTAW) et le soudage par faisceau d’électrons (EBW).<br /><br />Les profils des soudures et les symboles de soudage seront différents selon le procédé de soudage utilisé.<br /><br />Voici quelques assemblages coupés avec une soudure par points exécutée avec divers procédés.<br /><br />- le soudage par résistance par points (RSW);<br />- le soudage par bossages (PW);<br />- le soudage à l’arc sous gaz avec électrode de tungstène (GTAW);<br />- le soudage par faisceau d’électrons (EBW).<br /><br />Il est à noter qu’avec l’utilisation du procédé de soudage par résistance par points (RSW), la localisation du symbole de soudage représente bien la localisation de la soudure sur l’assemblage. De plus, l’utilisation de ce procédé de soudage d’un côté ou de l’autre côté de l’assemblage où pointe la flèche ne s’applique pas.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l1-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure par points de l’autre côté de l’assemblage où pointe la flèche. La soudure doit être exécutée avec le procédé de soudage par bossages (PW).<br /><br />Voici ensuite l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l1-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure par points de l’autre côté de l’assemblage où pointe la flèche. La soudure doit être exécutée avec le procédé de soudage à l’arc sous gaz avec électrode de tungstène (GTAW).<br /><br />Voici maintenant l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l1-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure par points de l’autre côté de l’assemblage où pointe la flèche. La soudure doit être exécutée avec le procédé de soudage par faisceau d’électrons (EBW).<br /><br />Et voici l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l1-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure par résistance par points (RSW). Le chiffre 6 situé à gauche du symbole de soudure indique la grosseur de la soudure.<br /><br />Il est à noter que la même location peut être utilisée pour indiquer la résistance en cisaillement du point de soudure. La valeur indiquée devra être en livres par pouce carré ou en newtons.<br /><br />Voici ensuite l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l1-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure par résistance par points (RSW). Le chiffre 3 entre parenthèses situé au-dessous du symbole de soudure indique le nombre de points de soudure.<br /><br />Et voici l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l1-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représentant une soudure par résistance par points (RSW). Le chiffre 20 situé à droite du symbole de soudure indique le pas de soudure.<br /><br />Voici maintenant l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l1-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour, il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas?<br /><br />Alors que diriez-vous de mettre toutes ces notions en pratique? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur la soudure par points.<br /><br />Cliquez sur le bouton « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l1-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l1-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l1-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 16" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l1-p16.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 17" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l1-p17.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 18" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l1-p18.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations, vous avez terminé la première leçon du module 4.<br /><br />Lors de la prochaine leçon, nous traiterons de soudure à la molette.<br /><br />C’est un rendez-vous à ne pas manquer. Au plaisir de se revoir !]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>
