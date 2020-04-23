@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Soudure bout à bout sur préparation (TF)" duree="9 minutes">
+	<LESSON nom="Préparation à bord tombé et à bord relevé">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m5-l3-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue à cette troisième leçon du module 5.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m5-l3-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l3-p3.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure sur préparation en V à bord tombé du côté du joint où pointe la flèche.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l3-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure sur préparation en V à bord tombé du côté du joint où pointe la flèche. Les lettres « DT » localisées à la gauche du symbole indiquent la distance entre la tangente (ou celle du rayon dans le cas des pièces circulaires). La lettre G entre parenthèses localisée à la gauche du symbole indique la grosseur de la soudure.<br /><br />Voici ensuite l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l3-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure sur préparation en V à bord tombé du côté du joint où pointe la flèche. Le chiffre 20 localisé à la gauche du symbole indique le rayon de la pièce. Le chiffre 6 entre parenthèses localisé à la gauche du symbole indique la grosseur de la soudure.<br /><br />Voici ensuite l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l3-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure sur préparation en V à bord tombé du côté du joint où pointe la flèche. Le chiffre 10 localisé à la gauche du symbole indique le rayon de la pièce. Le chiffre 6 entre parenthèses localisé à la gauche du symbole indique la grosseur de la soudure.<br /><br />Voici ensuite l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l3-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure sur préparation en V double à bord relevé des deux côtés du joint. Le chiffre 9 localisé à la gauche du symbole indique le rayon de la pièce. Le chiffre 5 entre parenthèses localisé à la gauche du symbole indique la grosseur des soudures.<br /><br />Et voici l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m5-l3-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour ! Il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas? Alors que diriez-vous de mettre toutes ces notions en pratique? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur la soudure bout à bout avec préparation en V et en V double à bord tombé et à bord relevé.<br /><br />Cliquez sur « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l3-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l3-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l3-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l3-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l3-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m5-l3-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Passez maintenant aux activités d’apprentissage.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>

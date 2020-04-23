@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Soudure bout à bout sur préparation (TF)" duree="11 minutes">
+	<LESSON nom="Préparation en demi-V et en V">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m5-l1-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue dans ce cinquième module.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m5-l1-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m5-l1-p3.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce module est constitué de 3 leçons, d’un exercice synthèse et d’une évaluation formative du module.<br /><br />La première leçon traite de préparation en demi-V et en V.<br /><br />La deuxième leçon traite de préparation en J et en U.<br /><br />La troisième leçon traite de préparation à bord tombé et à bord relevé.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m5-l1-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m5-l1-p5.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Une soudure avec une pénétration acceptable permet au joint de soudure de rencontrer les propriétés mécaniques escomptées.<br /><br />Pour ce faire, il importe donc d’espacer les tôles et de faire une préparation adéquate.<br /><br />Pour un assemblage bout à bout, plusieurs préparations peuvent être exécutées.<br /><br />On peut obtenir :<br /><br />- Une préparation sur bord droit;<br />- Une préparation en demi-V;<br />- Une préparation en demi-V double;<br />- Une préparation en V;<br />- Une préparation en V double;<br />- Une préparation en J;<br />- Une préparation en J double;<br />- Une préparation en U;<br />- Une préparation en U double.<br /><br />Pour les besoins de cette leçon, nous traiterons de préparation en demi-V, de préparation en demi-V double, de préparation en V et de préparation en V double.<br /><br />Les préparations en J, en J double, en U et en U double seront traitées au cours de la prochaine leçon.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en demi-V devant être exécutée du côté du joint où pointe la flèche, ainsi que l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en demi-V devant être exécutée du côté du joint où pointe la flèche. La préparation doit avoir un espacement de 2 millimètres, une profondeur de 8 millimètres et un angle d’ouverture de 30 degrés. La soudure doit être finie à ras par meulage.<br /><br />Voici ensuite l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en demi-V avec support arrière devant être exécutée du côté du joint où pointe la flèche, ainsi que l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en demi-V avec support arrière de 6 millimètres par 50 millimètres en acier de type A36. La soudure doit être exécutée du côté du joint où pointe la flèche avec un espacement de 8 millimètres et un angle d’ouverture de 30 degrés Elle devra de plus être finie à ras par meulage. Le support doit être enlevé après le soudage.<br /><br />Voici ensuite l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en demi-V double, ainsi que l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en demi-V double avec espacement de 2 millimètres, profondeur de 9 millimètres et angle d’ouverture de 30 degrés.<br /><br />Voici ensuite l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en demi-V double avec support intégré, ainsi que l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en demi-V double avec support intégré de 6 millimètres par 8 millimètres en acier de type SAE 1020, espacement de 6 millimètres, angles d’ouverture de 30 degrés et profondeur de 6 millimètres.<br /><br />Voici ensuite l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en V devant être exécutée du côté du joint où pointe la flèche, ainsi que l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en V devant être exécutée du côté du joint où pointe la flèche avec un espacement de 2 millimètres, une profondeur de 8 millimètres et un angle d’ouverture de 75 degrés Le tout devra être réalisé avec le procédé de soudage à l’arc avec électrode enrobée et fini à ras par usinage.<br /><br />Voici maintenant l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 16" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p16.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en V devant être réalisée avec un support arrière du côté du joint où pointe la flèche ainsi que l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 17" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p17.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en V devant être exécutée avec support arrière de 6 millimètres par 50 millimètres en acier A36 et espacement de 8 millimètres du côté du joint où pointe la flèche. Le support doit être enlevé après soudage.<br /><br />Voici ensuite l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 18" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p18.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en V double, ainsi que l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 19" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p19.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en V double avec un espacement de 2 millimètres, des profondeurs de 4 millimètres et des angles d’ouverture de 75 degrés. La soudure doit être exécutée avec le procédé de soudage à l’arc sous gaz avec fil plein.<br /><br />Et voici l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 20" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p20.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une préparation en V double avec support intégré, ainsi que l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 21" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p21.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une exécution en trois étapes.<br /><br />Première étape :<br /><br />Une préparation en V double avec support intégré de 5 millimètres par 5 millimètres en acier de type A36, espacement de 5 millimètres, profondeurs de 10 millimètres et angles d’ouverture de 75 degrés.<br /><br />Deuxième étape :<br /><br />Une soudure d’une profondeur de 12 millimètres exécutée avec le procédé de soudage à l’arc avec fil fourré du côté du joint où la flèche pointe.<br /><br />Troisième étape :<br /><br />Une soudure d’une profondeur de 12 millimètres exécutée avec le procédé de soudage à l’arc avec fil fourré de l’autre côté du joint où la flèche pointe.<br /><br />Voici finalement l’assemblage bout à bout correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 22" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m5-l1-p22.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour ! Il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas?<br /><br />Alors que diriez-vous de mettre toutes ces notions en pratique? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur la soudure bout à bout avec préparation.<br /><br />Cliquez sur « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 23" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p23.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 24" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p24.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 25" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p25.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 26" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p26.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 27" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m5-l1-p27.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 28" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m5-l1-p28.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations, vous terminez la première leçon du module 5. Lors de la prochaine leçon, nous traiterons de soudure sur préparation en J et en U.<br /><br />C’est un rendez-vous à ne pas manquer ! Au plaisir de se revoir…]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>
