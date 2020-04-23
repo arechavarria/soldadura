@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Symboles de soudage de base et complémentaires" duree="10 minutes">
+	<LESSON nom="Système de communication">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l1-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue dans ce premier module.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l1-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l1-p3.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Ce module est constitué de 5 leçons, d’un exercice synthèse et d’une évaluation formative du module.<br /><br />Pour la première leçon, nous étudierons la symbolisation en soudage comme système de communication et les applications de la symbolisation en soudage.<br /><br />La deuxième leçon traitera des assemblages de base sur tôle et des assemblages de base sur profilé.<br /><br />Pour la troisième leçon, il sera question de la fonction, de la localisation et des particularités de la ligne de référence, de la flèche et de la queue.<br /><br />À la quatrième leçon, nous traiterons de la fonction, de la localisation et des particularités des symboles de préparation, des symboles de soudures, des symboles de contour et des symboles de finition.<br /><br />Enfin, pour la cinquième leçon, nous étudierons la fonction, la localisation et les particularités du symbole sur chantier, du symbole soudure tout autour, du symbole de la pénétration à l’envers et des symboles représentant les procédés de coupage et de soudage.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l1-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l1-p5.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Vous connaissez les deux expressions suivantes ?<br /><br />« Une image vaut mille mots. »<br /><br />« Les paroles s’envolent, mais les écrits restent. »<br /><br />L’homme a très bien compris ces deux adages depuis fort longtemps… C’est ce que nous démontrent tous ces dessins préhistoriques que nous retrouvons un peu partout dans les grottes du monde entier.<br /><br />Tout au long de son histoire, l’homme a continué à dessiner pour communiquer. C’est lors de l’industrialisation que l’homme a senti le besoin d’améliorer les dessins figuratifs afin de fabriquer des objets de plus en plus sophistiqués.<br /><br />De là est né le dessin technique utilisé aujourd’hui pour la fabrication de divers objets.<br /><br />La symbolisation en soudage est de cette même lignée. Elle s’intègre dans les dessins techniques afin de communiquer les informations à l’égard du soudage de l’objet.<br /><br />Cliquez sur le bouton « Page suivante » pour passer à l’activité suivante.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l1-p6.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[On peut comparer la symbolisation en soudage à un système de communication graphique, un peu comme l’écriture.<br /><br />À la base, l’écriture est composée de symboles que l’on nomme les lettres de l’alphabet. Selon l’agencement de ces lettres, on compose des mots.<br /><br />Avec les mots, on compose des phrases et avec les phrases, on compose des paragraphes afin que le message à transmettre soit clair et précis.<br /><br />La symbolisation en soudage est composée de sept types de symboles :<br /><br />- les symboles de base;<br />- les symboles de préparation;<br />- les symboles de soudure;<br />- les symboles de contour;<br />- les symboles de finition;<br />- les symboles complémentaires;<br />- les symboles du procédé de coupage et de soudage.<br /><br />Tout comme l’écriture, cette symbolisation, comprend des règles. L’agencement de ces symboles transmet en effet un message écrit clair et précis.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l1-p7.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Regardons maintenant ensemble ce que ces symboles de soudage veulent dire exactement.<br /><br />On doit exécuter une préparation en demi-V de l’autre côté du joint pointé par la flèche avec un espacement entre les tôles de 3 mm. Cette préparation doit avoir un méplat de 3 mm et un angle de 30 degrés à la racine du joint.<br /><br />La soudure doit être exécutée sur chantier.<br /><br />La soudure doit être exécutée avec le procédé de soudage à l’arc avec électrode enrobée.<br /><br />Une soudure d’angle d’une dimension de 10 mm avec une pénétration d’une dimension de 3 mm.<br /><br />La soudure doit être finie à ras.<br /><br />La finition doit être exécutée par meulage.<br /><br />Comme vous pouvez le constater, le système de communication des symboles de soudage joue très bien son rôle, c’est à dire qu’il rencontre parfaitement  les critères d’un système de communication, soit d’être clair et précis.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l1-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l1-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Les symboles de soudage s’emploient dans tous les secteurs d’activité où le soudage est nécessaire. Quelques exemples…<br /><br />- secteur de la fabrication métallique;<br />- secteur de la réparation;<br />- secteur de la construction.<br /><br />Cette symbolisation est également utilisée dans la documentation :<br /><br />- description de la méthode de soudage;<br />- résultat de la méthode de soudage;<br />- rapport de l’inspecteur;<br />- dessins.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l1-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Je crois maintenant que vous êtes prêts pour quelques exercices…<br /><br />Le premier exercice traite des normes des symboles de soudage.<br /><br />Le deuxième exercice touche aux secteurs d’activités qui emploient les symboles de soudage.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l1-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l1-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l1-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voilà, vous avez passé à travers la première leçon.<br /><br />J’espère que vous avez aimé votre expérience de formation à distance.<br /><br />De mon côté, j’ai bien apprécié vous accompagner dans cette première leçon.<br /><br />Je vous attends pour la prochaine.<br /><br />C’est un rendez-vous…]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>

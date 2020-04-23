@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Symboles de soudage de base et complémentaires" duree="9 minutes">
+	<LESSON nom="Symboles de soudage de base">
+		<SCENE nom="Page 1" typeTemplate="externe"  controleExterne="true">
+			<SOURCE>data/m1-l3-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue à la leçon 3 du module 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p3.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici les 3 symboles de base:<br /><br />- la ligne de référence;<br>- la flèche;<br>- la queue.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[La ligne de référence est le principal symbole de base. C'est sur cette ligne que tous les autres symboles se rattachent. La ligne de référence doit toujours être placée à l'horizontale.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Les symboles de soudage qui sont rattachés au dessous de la ligne de référence concernent les informations qui s'appliquent du côté du joint où la flèche pointe.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Les symboles de soudage qui sont rattachés au dessus de la ligne de référence concernent les informations qui s'appliquent de l'autre côté du joint où la flèche pointe.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[L'information A indiquée au-dessous de la ligne de référence de ce symbole de soudage s'applique du côté du joint où la flèche pointe, soit au-dessus de l'assemblage bout à bout.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[L’information B indiquée au-dessus de la ligne de référence de ce symbole de soudage s’applique de l'autre côté du joint où la flèche pointe, soit au-dessous de l’assemblage bout à bout.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[L`information A indiquée au-dessous de la ligne de référence de ce symbole de soudage s’applique du côté du joint où la flèche pointe, soit du côté extérieur de l’assemblage en L.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[L’information B indiquée au-dessus de la ligne de référence de ce symbole de soudage s’applique de l’autre côté du joint où la flèche pointe, soit du côté intérieur de l’assemblage en L.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[L’information A indiquée au-dessous de la ligne de référence de ce symbole de soudage s’applique du côté du joint où la flèche pointe, soit du côté gauche de l`assemblage en T.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[L’information B indiquée au-dessus de la ligne de référence de ce symbole de soudage s’applique de l’autre côté du joint où la flèche pointe, soit du côté droit de l’assemblage en T.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[L’information A indiquée au-dessous de la ligne de référence de ce symbole de soudage s’applique du côté du joint où la flèche pointe, soit au-dessus de l`assemblage à recouvrement. ]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[L’information B indiquée au-dessus de la ligne de référence de ce symbole de soudage s`applique de l’autre côté du joint où la flèche pointe, soit au-dessous de l’assemblage à recouvrement.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[L’information A indiquée au-dessous de la ligne de référence de ce symbole de soudage s’applique du côté du joint où la flèche pointe, soit au-dessus de l’assemblage bord à bord.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 16" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p16.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[L’information B indiquée au-dessus de la ligne de référence de ce symbole de soudage s’applique de l’autre côté du joint où la flèche pointe, soit au-dessous de l’assemblage bord a bord.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 17" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p17.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[On doit toujours utiliser plusieurs lignes de référence sur le même symbole de soudage si l’on veut indiquer la séquence des opérations. Les premières opérations à exécuter sont celles indiquées sur la ligne de référence la plus rapprochée de la pointe de la flèche. La deuxième opération à exécuter est celle indiquée sur la ligne de référence suivante et ainsi de suite...]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 18" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p18.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[La flèche peut être placée à l’extrémité droite ou à l’extrémité gauche de la ligne de référence. Par contre, on ne peut pas placer des flèches aux deux extrémités sur une même ligne de référence. Lorsque la flèche est à une extrémité de la ligne de référence, la queue se retrouve automatiquement à l’autre extrémité.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 19" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p19.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[On peut rattacher plusieurs flèches à une extrémité de la ligne de référence afin de pointer plusieurs joints.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 20" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p20.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[La pointe de flèche doit toujours pointer le joint de l’assemblage.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 21" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p21.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Certains symboles de soudage peuvent représenter une préparation où seulement une des deux pièces doit être chanfreinée. On pourrait alors se demander laquelle des deux tôles est à chanfreiner. Pour éviter la confusion, la flèche doit être brisée et pointer le joint de façon à ce que sa trajectoire indique la pièce à chanfreiner.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 22" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p22.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[La queue doit toujours être rattachée à la ligne de référence, à l’extrémité opposée de la flèche.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 23" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p23.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[L’information qui se retrouve dans la queue est l’information générale. Elle ne peut être inscrite ou rattachée à la ligne de référence. Par exemple : le procédé de coupage, le procédé de soudage, les métaux d’apport, le numéro de la description de la méthode de soudage ou une indication telle (voir note A).]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 24" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p24.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour ! Il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas?<br><br>Alors que diriez-vous de mettre toutes ces notions en pratique? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour trois questions sur les symboles de base…Cliquez sur « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 25" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l3-p25.swf</SOURCE>
+			<NARRATION scroll="">
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 26" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l3-p26.swf</SOURCE>
+			<NARRATION scroll="">
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 27" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l3-p27.swf</SOURCE>
+			<NARRATION scroll="">
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 28" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l3-p28.swf</SOURCE>
+			<NARRATION scroll="">
+			<LETEXTE><![CDATA[Félicitations, vous terminez la troisième leçon du module 1 !<br><br>Au cours de la prochaine leçon, nous traiterons de préparation et de symboles de soudure.<br><br>C’est un rendez-vous à ne pas manquer ! Au plaisir de se revoir…]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>

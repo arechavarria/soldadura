@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Symboles de soudage de base et complémentaires" duree="6 minutes">
+	<LESSON nom="Assemblages">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l2-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue à cette deuxième leçon du module 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l2-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l2-p3.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Pour débuter cette leçon, voyons ensemble ce que c’est qu’un assemblage. Nous identifierons par la suite les différents types d’assemblages.<br><br>Un assemblage est constitué de deux pièces qui sont jointes afin de n’en former qu’une seule. Le point de rencontre de ces deux pièces s’appelle un joint.<br><br>Il est commun dans l’industrie d’utiliser le terme « un joint en T » pour identifier un assemblage en T.<br><br>Il est également courant d’utiliser le terme « assemblage » pour identifier l’ensemble des pièces qui forment le produit final.<br><br>Vous voyez donc que, même dans la communication verbale, on doit s’assurer d’utiliser le même vocabulaire !<br><br>C’est pour cette raison que l’Association Canadienne de Normalisation a produit la  norme W375 - Terminologie française du soudage. Pour toutes les pièces mécano soudées fabriquées dans le monde, on utilise seulement 5 types d’assemblages :<br><br>•	l’assemblage bout à bout;<br>•	l’assemblage à recouvrement;<br>•	l’assemblage en T;<br>•	l’assemblage en L;<br>•	l’assemblage bord à bord.<br><br>Notez bien la différence entre un assemblage en L et un assemblage bord à bord. Si l’écartement intérieur entre les tôles se situe entre 0 et 30 degrés, il s’agit d’un assemblage bord à bord. Mais si les angles sont supérieurs à 30 degrés, c’est un assemblage en L.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l2-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour ! Il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas ?<br><br>Alors que diriez-vous de mettre toutes ces notions en pratique ? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur les assemblages.<br><br>Cliquez sur « Page suivante » pour passer à la question 1...]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l2-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l2-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l2-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l2-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l2-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l2-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations, vous terminé la deuxième leçon du module 1 !<br><br>Lors de la prochaine leçon, nous traiterons des symboles de base.<br><br>C’est un rendez-vous à ne pas manquer ! Au plaisir de se revoir…]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>
