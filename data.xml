@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Soudure par points, soudure à la molette et soudure de goujon (TM)" duree="9 minutes">
+	<LESSON nom="Soudure à la molette">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l2-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue à cette deuxième leçon du module 4.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l2-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l2-p3.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[La soudure à la molette et la soudure à l’arc continue traversante sont principalement utilisées pour le soudage de tôles minces.<br /><br />La soudure à la molette est exécutée à l’aide du procédé de soudage par résistance à la molette RSEW.<br /><br />La soudure à l’arc continue traversante peut être exécutée avec différents procédés de soudage : soudage à l’arc sous gaz avec fil plein (GMAW), soudage à l’arc sous gaz avec électrode de tungstène (GTAW) et soudage par faisceau d’électrons (EBW).<br /><br />Les profils des soudures et les symboles de soudage seront différents selon le procédé de soudage utilisé.<br /><br />Voici, avec leurs symboles de soudage correspondants, des assemblages coupés avec une soudure par points exécutée avec les procédés de :<br /><br />- soudage par résistance à la molette (RSEW);<br />- soudage à l’arc sous gaz avec fil plein (GMAW);<br />- soudage à l’arc sous gaz avec électrode de tungstène (GTAW);<br />- soudage par faisceau d’électrons (EBW).<br /><br />Il est à noter qu’avec l’utilisation du procédé de soudage par résistance à la molette (RSEW), la localisation du symbole de soudage représente bien la localisation de la soudure sur l’assemblage. De plus, avec l’utilisation de ce procédé de soudage, le principe portant sur le côté de l’assemblage ou l’autre côté de l’assemblage où pointe la flèche ne s’applique pas.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure à l’arc continue traversante devant être exécutée de l’autre côté de l’assemblage où pointe la flèche avec le procédé de soudage par faisceau d’électrons (EBW).<br /><br />Voici maintenant l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure à l’arc continue traversante devant être exécutée de l’autre côté de l’assemblage où pointe la flèche avec le procédé de soudage à l’arc sous gaz avec fil plein (GMAW).<br /><br />Voici ensuite l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure à l’arc continue traversante devant être exécutée de l’autre côté de l’assemblage où pointe la flèche avec le procédé de soudage à l’arc sous gaz avec électrode de tungstène (GTAW).<br /><br />Et voici l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure à l’arc continue traversante devant être exécutée du côté de l’assemblage où pointe la flèche avec le procédé de soudage à l’arc sous gaz avec électrode de tungstène (GTAW). Le chiffre .250 situé à gauche du  symbole de soudure indique la grosseur de la soudure.<br /><br />Il est à noter que la même localisation peut être utilisée pour indiquer la résistance en cisaillement du point de soudure. La valeur indiquée sera en livres par pouce carré ou en newtons.<br /><br />Voici ensuite l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure à l’arc continue traversante devant être exécutée du côté de l’assemblage où pointe la flèche avec le procédé de soudage par faisceau d’électrons (EBW). Le chiffre 5 entre parenthèses, situé au dessous du symbole de soudure, indique le nombre de points de soudure.<br /><br />Voici maintenant l’assemblage correspondant.
+]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure à l’arc continue traversante devant être exécutée du côté de l’assemblage où pointe la flèche avec le procédé de soudage par faisceau d’électrons (EBW). Le chiffre .750 situé à droite du symbole de soudure indique la longueur de soudure.<br /><br />Et voici l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure à la molette devant être exécutée du côté de l’assemblage où pointe la flèche avec le procédé de soudage par résistance à la molette RSEW. Le chiffre 2.00 situé à droite du tiret indique le pas de soudure.<br /><br />Voici ensuite l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure à la molette devant être exécutée du côté de l’assemblage où pointe la flèche avec le procédé de soudage à l’arc sous gaz avec électrode de tungstène (GTAW). Le chiffre .250 situé à gauche du symbole indique la grosseur de soudure. Le chiffre 5 entre parenthèses, situé au dessous du symbole, indique le nombre de soudure. Le chiffre .750 situé à droite du symbole indique la longueur de soudure. Le chiffre 2.00 situé après le tiret indique finalement le pas de soudure.<br /><br />Et voici l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l2-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour ! Il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas?<br /><br />Alors que diriez-vous de mettre toutes ces notions en pratique? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur la soudure à la molette et sur la soudure à l’arc traversante.<br /><br />Cliquez sur le bouton « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 16" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p16.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 17" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m4-l2-p17.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 18" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m4-l2-p18.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations, vous terminez  la deuxième leçon du module 4.<br /><br />Lors de la prochaine leçon, nous traiterons de soudure de goujon.<br /><br />C’est un rendez-vous à ne pas manquer ! Au plaisir de se revoir…]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>
