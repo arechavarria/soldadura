@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Soudure de rechargement, soudure en bouchon, soudure en entaille et soudure de goujon (TF)" duree="9 minutes">
+	<LESSON nom="Soudure de rechargement">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m7-l1-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue dans ce septième module.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m7-l1-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m7-l1-p3.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce module est constitué de 4 leçons, d’un exercice synthèse et d’une évaluation formative du module.<br /><br />La première leçon traite de soudure de rechargement<br /><br />La deuxième leçon traite de soudure en bouchon<br /><br />La troisième leçon traite de soudure en entaille<br /><br />La quatrième leçon traite de soudure de goujon]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m7-l1-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m7-l1-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[La soudure de rechargement est utilisée de deux façons. Une première application consiste à ajouter du métal à une pièce afin de modifier les propriétés mécaniques de sa surface, par exemple pour augmenter la résistance à l’usure des surfaces qui seront en contact avec des matières abrasives.<br /><br />La deuxième application consiste à ajouter du métal sur une surface d’une pièce afin de lui redonner sa forme originale, soit sa forme avant l’usure et la déformation de la  pièce.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l1-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de rechargement, ainsi que la pièce correspondante.<br /><br />Il est à noter que le symbole de soudure de rechargement doit toujours être situé au dessous de la ligne de référence. Par contre, la flèche doit pointer la surface qui doit être rechargée.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l1-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de rechargement. La grosseur de la soudure prescrite est de 3/8e de pouce.<br /><br />Voici ensuite la pièce correspondante.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l1-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de rechargement. Cette soudure doit être exécutée en deux séquences.<br /><br />La première séquence consiste à exécuter une couche de soudure d’une épaisseur de ¼ de pouce dans le sens de la longueur de la pièce.<br /><br />La deuxième séquence consiste à exécuter une couche de soudure d’une épaisseur de 3/8e de pouce dans le sens de la largeur de la pièce.<br /><br />Voici maintenant la pièce correspondante.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l1-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de rechargement. Cette soudure doit être exécutée en deux séquences.<br /><br />La première séquence consiste à exécuter une couche de soudure d’une grosseur de 5/16e de pouce dans le sens de la circonférence de la pièce.<br /><br />La deuxième séquence consiste à exécuter une couche de soudure d’une grosseur de 3/8e de pouce dans le sens de l’axe de la pièce.<br /><br />Voici maintenant la pièce correspondante.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l1-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de rechargement. Dans ce cas précis, on indique la valeur minimale et maximale de l’ouverture du joint, soit ½ pouce minimum et 9/16e de pouce maximum.<br /><br />Et voici l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m7-l1-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour ! Il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas?<br /><br />Alors que diriez-vous de mettre toutes ces notions en pratique? Maintenant, je crois que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur la soudure de rechargement.<br /><br />Cliquez sur l’activité suivante pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l1-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l1-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l1-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l1-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 16" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l1-p16.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 17" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m7-l1-p17.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations, vous terminez la première leçon du module 7.<br /><br />Dans la prochaine leçon, nous traiterons de soudure en bouchon.<br /><br />C’est un rendez-vous à ne pas manquer ! Au plaisir de se revoir…]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>

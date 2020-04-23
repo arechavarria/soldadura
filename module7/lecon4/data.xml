@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Soudure de rechargement, soudure en bouchon, soudure en entaille et soudure de goujon (TF)" duree="8 minutes">
+	<LESSON nom="Soudure de goujon">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m7-l4-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue à cette quatrième leçon du module 7.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m7-l4-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m7-l4-p3.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[La soudure de goujon et d’attache pour application sur la tôle mince est traitée dans la leçon 3 du module 4. Au cours de la présente leçon, nous traiterons d’applications de soudure de goujon et d’attache applicables au secteur de la tôle forte.<br /><br />La soudure de goujon et d’attache peut être exécutée de plusieurs façons : à l’arc électrique, par résistance, par friction et par percussion. L’arc électrique étant la technique la plus utilisée, c’est celle que nous retiendrons pour cette leçon.<br /><br />On peut souder à l’arc électrique des goujons et d’autres attaches sur des pièces d’une épaisseur de 20 millièmes de pouce et plus. Il existe plusieurs types d’attaches et de goujons. En voici quelques exemples…]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l4-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de goujon devant être exécutée du côté de l’assemblage où pointe la flèche avec le procédé de soudage à l’arc des goujons (SW) ainsi que l’assemblage correspondant.<br /><br />Il est à noter que pour la soudure à l’arc des goujons, le symbole est toujours placé du côté de l’assemblage où pointe la flèche.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l4-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de goujon. La soudure doit être exécutée avec le procédé de soudage à l’arc des goujons (SW). Le chiffre 25 situé à gauche du symbole de soudure indique le diamètre du goujon ou de l’attache.<br /><br />Voici ensuite l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l4-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de goujon devant être exécutée avec le procédé de soudage à l’arc des goujons (SW). Le chiffre 5 entre parenthèses situé au dessous du symbole de soudure indique le nombre de goujons ou d’attaches.<br /><br />Et voici l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l4-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de goujon devant être exécutée avec le procédé de soudage à l’arc des goujons (SW). Le chiffre 300 situé à droite du symbole de soudure indique le pas des goujons ou des attaches.<br /><br />Il est à noter que les valeurs de localisation longitudinale et transversale du goujon ou de l’attache située près du rebord de la tôle doivent être indiquées sur le dessin.<br /><br />Voici maintenant l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l4-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure de goujon devant être exécutée avec le procédé de soudage à l’arc avec fil fourré (FCAW). Le chiffre 25 situé à gauche du symbole indique le diamètre du goujon ou de l’attache. Le chiffre 20 entre parenthèses situé au dessous du symbole de soudure indique le nombre de goujons ou d’attaches. Le chiffre 300 situé à droite du symbole indique le pas des goujons ou des attaches.<br /><br />Voici ensuite l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m7-l4-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour ! Il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas? Alors que diriez-vous de mettre toutes ces notions en pratique? Maintenant, je crois que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur la soudure de goujon et d’attache.<br /><br />Cliquez sur l’activité suivante pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l4-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l4-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l4-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l4-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m7-l4-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m7-l4-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations, vous terminez la quatrième leçon du module 7.<br /><br />Dans la prochaine étape, vous devez compléter les activités synthèses du module 7.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>
