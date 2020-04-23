@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Symboles de soudage de base et complémentaires" duree="12 minutes">
+	<LESSON nom="Symboles complémentaires">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l5-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue à cette cinquième leçon du module 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l5-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l5-p3.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici un petit rappel concernant les symboles de soudage complémentaires.<br /><br />Les symboles de soudage complémentaires sont:<br /><br />- Symbole de soudure tout autour;<br />- Symbole de soudure sur chantier;<br />- Symbole de pénétration arrière;<br />- Symbole de cordon de soudure arrière;<br />- Symbole de support; <br />- Symbole de contour;<br />- Symbole de finition;<br />- Symbole de procédé de coupage et de soudage.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l5-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure d’angle. Le cercle à l’intersection de la ligne de référence et de la flèche indique que la soudure doit être exécutée tout autour de la pièce.<br /><br />Voici ensuite l’assemblage avant et après soudage correspondant. Ce symbole représente la soudure tout autour du joint où la flèche pointe.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l5-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici un autre symbole de soudage représentant une soudure d’angle. Le drapeau à l’intersection de la ligne de référence et de la flèche indique que la soudure doit être exécutée sur chantier.<br /><br />Ce drapeau peut aussi pointer vers le bas, selon les besoins d’espace sur le dessin.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l5-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure sur un assemblage bout à bout. Le demi-cercle en noir indique qu’il doit y avoir une pénétration de l’autre côté du joint où la flèche pointe.<br /><br />Voici ensuite l’assemblage avant et après soudage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l5-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici un autre symbole de soudage représentant une soudure sur un assemblage bout à bout. Le demi-cercle indique qu’un cordon de soudure doit être exécuté de l’autre côté du joint où la flèche pointe.<br /><br />Voici ensuite l’assemblage avant et après soudage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l5-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure bout à bout avec préparation en V du côté du joint pointé par la flèche. Le carré indique un support consumable intégré de l’autre côté du joint ou la flèche pointe. L’information inscrite dans la queue indique la classe du support selon la norme ANSI / AWS A5.30 Specification for Consumable Inserts.<br /><br />Voici ensuite l’assemblage avant et après soudage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l5-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente également une soudure bout à bout avec préparation en V du côté du joint pointé par la flèche. Le carré indique un support de l’autre côté du joint où la flèche pointe. Le R dans le carré indique que le support doit être enlevé après le soudage. L’information inscrite dans la queue indique les dimensions et le type de matériel dont le support est fait.<br /><br />Voici ensuite l’assemblage avant et après soudage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l5-p10.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure bout à bout avec préparation en V double. Le rectangle indique un support au centre du joint. À côté, on peut voir l’assemblage avant et après soudage correspondant.<br /><br />Ce symbole de soudage représente une soudure en T avec préparation en demi-V double. Encore une fois, le rectangle indique un support au centre du joint. On aperçoit à côté l’assemblage avant et après soudage correspondant.<br /><br />Ce symbole de soudage représente une soudure bout à bout avec préparation en U double. On retrouve encore ici le rectangle indiquant un support au centre du joint. L’assemblage avant et après soudage correspondant se retrouve juste à côté.<br /><br />Ce symbole de soudage représente une soudure en T avec préparation en J double. Le support au centre du joint est à nouveau représenté par le rectangle. On aperçoit à côté l’assemblage avant et après soudage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l5-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Les symboles de contour indiquent le profil prescrit de la surface de la soudure.<br /><br />Le symbole de contour est toujours situé après le symbole de soudage.<br /><br />Voici les symboles de contour représentant les deux côtés du joint pointé par la flèche.<br />- Contour ras;<br />- Contour convexe;<br />- Contour concave.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l5-p12.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Voici les symboles de soudure avec contours, ainsi que les profils sur la soudure.<br /><br />- Contour ras sur une soudure d’angle des deux côtés du joint où la flèche pointe. Pour les soudures d’angle, le symbole de contour peut être placé à deux endroits.<br /><br />- Contour ras sur une soudure sur préparation bout à bout des deux côtés du joint où la flèche pointe.<br /><br />- Contour convexe sur une soudure d’angle des deux côtés du joint où la flèche pointe. Pour les soudures d’angle, le symbole de contour peut être placé à deux endroits.<br /><br />- Contour convexe sur une soudure sur préparation bout à bout des deux côtés du joint où la flèche pointe.<br /><br />- Contour concave sur une soudure d’angle des deux côtés du joint où la flèche pointe. Pour les soudures d’angle, le symbole de contour peut être placé à deux endroits.<br /><br />- Contour concave sur une soudure sur préparation bout à bout des deux côtés du joint où la flèche pointe.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l5-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Le symbole de finition indique la méthode par laquelle sera effectué le contour. Le symbole qui identifie chacune des 5 méthodes de finition est la première lettre des mots anglais:<br /><br />- C pour chipping (buriner)<br />- G pour grinding (meuler)<br />- H pour hammering (marteler)<br />- M pour machining (usiner)<br />- R pour rolling (rouler).<br /><br />Le symbole de finition est localisé après le symbole de contour.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l5-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Il existe un symbole pour identifier chacun des procédés de coupage et de soudage.<br /><br />Voici l’index des symboles des procédés de soudage et des techniques connexes provenant de la Norme ACNOR W375-1986.<br /><br />Le symbole de chacun des procédés est constitué des lettres que l’on aperçoit à gauche sur la liste.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l5-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour, il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas?<br /><br />Alors que diriez-vous de mettre toutes ces notions en pratique? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur les symboles complémentaires. Cliquez sur « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 16" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l5-p16.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 17" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l5-p17.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 18" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l5-p18.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 19" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l5-p19.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 20" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l5-p20.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 21" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l5-p21.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations, vous terminez la cinquième leçon du module 1.<br /><br />Dans le prochain module, nous traiterons de soudure bout à bout, de soudure d’angle et de brasage.<br /><br />C’est un rendez-vous à ne pas manquer. Au plaisir de se revoir !]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>

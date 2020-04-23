@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Symboles de soudage de base et complémentaires" duree="8 minutes">
+	<LESSON nom="Symboles de préparation et de soudure">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l4-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue à la quatrième leçon du module 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l4-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l4-p3.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Lors de la dernière leçon, nous avons traité des symboles de base : la ligne de référence, la flèche et la queue.<br /><br />Dans le cadre de cette quatrième leçon, nous verrons les différents symboles de préparation et de soudure.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l4-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Le symbole de préparation est toujours celui qui est localisé le plus près de la ligne de référence.<br /><br />Quant au symbole de soudure, il se situe après le symbole de préparation.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l4-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Il existe plusieurs symboles de préparation.<br /><br />Voici chacun des symboles de préparation ainsi que l’assemblage qu’il représente.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 16" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p16.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 17" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l4-p17.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Je crois maintenant que vous êtes prêts pour quelques exercices.<br /><br />Je vous invite donc à réaliser les cinq exercices d’apprentissage suivants sur les symboles de préparation.<br /><br />N’hésitez pas à revoir certains aspects déjà abordés. Ceci vous aidera à parfaire vos réponses.<br /><br />Cliquez sur « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 18" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p18.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 19" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p19.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 20" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p20.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 21" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p21.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 22" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p22.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 23" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l4-p23.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[J’espère que vous avez du plaisir à faire ces exercices ! Passez maintenant aux symboles de soudure. On se revoit plus tard.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 24" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l4-p24.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Il existe plusieurs symboles de soudure.<br /><br />Voici chacun des symboles de soudure, ainsi que l’assemblage qu’il représente.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 25" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p25.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 26" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p26.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 27" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p27.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 28" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p28.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 29" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p29.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 30" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p30.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 31" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p31.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 32" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p32.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 33" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l4-p33.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Il faut noter que le symbole de préparation sur bord droit est aussi utilisé pour représenter une soudure sur un assemblage bout à bout.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 34" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l4-p34.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour ! Il me fait plaisir de vous revoir. Beaucoup d’informations n’est ce pas ?<br /><br />Alors que diriez-vous de mettre ces notions en pratique ?<br /><br />Je crois maintenant que vous  prêts pour quelques exercices.<br /><br />Allons-y pour cinq questions sur les symboles de soudure.<br /><br />Cliquez sur « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 35" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p35.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 36" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p36.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 37" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p37.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 38" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p38.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 39" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m1-l4-p39.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 40" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m1-l4-p40.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bravo ! Vous avez terminé la quatrième leçon du module 1.<br /><br />Lors de la prochaine leçon, nous traiterons de symboles de soudage complémentaires.<br /><br />C’est un rendez-vous à ne pas manquer !<br /><br />Au plaisir de se revoir…]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>
