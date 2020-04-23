@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Symboles de soudage" duree="2 minutes">
+	<LESSON nom="Conclusion">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/conclu_p1.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Vous voici arrivé à la conclusion de ce cours en ligne sur la symbolisation en soudage. J’espère que votre formation aura été agréable et profitable ! Si tout s’est passé comme prévu, vous devriez à présent être en mesure d’utiliser un tout nouveau langage qui vous sera fort utile dans votre métier de soudeur.<br /><br />Mais attention ! Il vous reste une dernière étape à franchir avant de réussir le cours : celle de l’évaluation. Eh oui, il faut en effet maintenant vous soumettre au traditionnel examen final... Pour ce faire, retournez sur la plate-forme et sélectionnez l’item "Évaluation finale" dans le menu des activités du cours.<br /><br />N’oubliez pas que si vous éprouvez encore des doutes quant à l’exactitude de certaines de vos nouvelles connaissances, vous pouvez toujours retourner sur la plate-forme de cours en ligne afin de relire certaines leçons ou refaire quelques exercices avant de passer à l’examen. Vous pouvez également contacter votre tuteur pour toute question relative à la formation.<br /><br />Alors voilà, je vous souhaite enfin la meilleure des chances pour votre évaluation finale ainsi que dans la poursuite de votre carrière de soudeur !<br /><br />À la prochaine...]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>
