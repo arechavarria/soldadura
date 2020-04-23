@@ -1,0 +1,8 @@
+CSMOFMI - Symbolisation en soudage
+
+
+- Pour démarrer la démo, ouvrez le fichier "index.html" avec Internet Explorer.
+
+- Pour installer la démo sur un ordinateur, copiez tous les dossiers du cd ainsi que le fichier "index.html" dans un dossier local de l'ordinateur (par exemple, C:\Documents and Settings\user\Mes documents\demo).
+
+- Si la démo ne démarre pas après avoir ouvert le fichier "index.html", vérifiez que les paramètres de sécurité d'Internet Explorer permettent l'exécution de contenu actif. Vous pouvez désactiver temporairement le bloquage en cliquant directement sur l'alerte (située dans le haut de l'écran principal d'Internet Explorer) et en choisissant "Autoriser le contenu bloqué". Cliquez ensuite sur "Oui" dans la fenêtre de message qui apparaît.
