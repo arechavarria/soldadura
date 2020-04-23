@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Soudure sur chant, soudure en bouchon et soudure en entaille (TM)" duree="10 minutes">
+	<LESSON nom="Soudure sur chant">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l1-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue dans ce troisième module.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l1-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l1-p3.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce module est constitué de 3 leçons, d’un exercice synthèse et d’une évaluation formative de module.<br /><br />La première leçon traite de soudure sur chant.<br /><br />La deuxième leçon traite de soudure en bouchon.<br /><br />La troisième leçon traite de soudure en entaille.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l1-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l1-p5.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Il existe deux types de soudure sur chant.<br /><br />Le premier type est la soudure sur chant sur bords droits.<br /><br />Le deuxième type est la soudure sur chant sur bords relevés.<br /><br />Le type soudure sur chant sur bords droits peut être appliqué sur deux pièces, trois pièces ou quatre pièces.<br /><br />- soudure sur chant sur bords droits à deux pièces;<br />- soudure sur chant sur bords droits à trois pièces;<br />- soudure sur chant sur bords droits à quatre pièces.<br /><br />Le type soudure sur chant sur bords relevés peut également être appliqué sur deux pièces, trois pièces ou quatre pièces.<br /><br />- soudure sur chant sur bords relevés à deux pièces;<br />- soudure sur chant sur bords relevés à trois pièces;<br />- soudure sur chant sur bords relevés à quatre pièces.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l1-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici les symboles de soudage représentant :<br /><br />- une soudure sur chant du côté du joint où pointe la flèche;<br />- une soudure sur chant de l’autre côté du joint où pointe la flèche;<br />- une soudure sur chant des deux côtés du joint où pointe la flèche.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l1-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Pour tous les types de soudure sur chant, on doit utiliser le même symbole :<br /><br />- soudure sur chant sur bords droits à deux pièces;<br />- soudure sur chant sur bords droits à trois pièces;<br />- soudure sur chant sur bords droits à quatre pièces;<br />- soudure sur chant sur bords relevés à deux pièces;<br />- soudure sur chant sur bords relevés à trois pièces;<br />- soudure sur chant sur bords relevés à quatre pièces.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l1-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Lorsque l’on veut obtenir une pénétration complète sur une soudure sur chant à bords relevés, il faut l’indiquer de l’autre côté du joint.<br /><br />Lorsque la distance entre les deux côtés du joint est trop longue, tel deux cornières, il faut alors l’indiquer par le symbole de soudure sur préparation en V à bord tombés.<br /><br />Voici le symbole et l’assemblage d’une soudure sur chant à bord relevé du côté du joint où pointe la flèche et une soudure sur préparation en demi-V évasé de l’autre côté du joint où pointe la flèche.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l1-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure sur chant.<br /><br />Le chiffre 3 situé à gauche du symbole de soudure indique la grosseur du cordon de soudure. La soudure doit être exécutée du côté du joint où pointe la flèche.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l1-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure sur préparation à bord droit.<br /><br />Le chiffre 25 situé à la droite du symbole de soudure indique la valeur de longueur de la soudure. La soudure doit être exécutée du côté du joint où pointe la flèche.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l1-p11.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure discontinue sur préparation à bord droit.<br /><br />Le chiffre 25 situé à la droite du symbole de soudure indique la longueur de la soudure.<br /><br />Le chiffre 100 situé après le tiret indique le pas de soudure. Le pas d’une soudure est la distance centre à centre entre chaque soudure. La soudure doit être exécutée du côté du joint où pointe la flèche.<br /><br />Lorsque l’on utilise une soudure discontinue et que l’on veut que les extrémités du joint soient soudées, on doit ajouter un deuxième symbole de soudage et l’indiquer sur le dessin.<br /><br />Si ce deuxième symbole n’apparaît pas sur le dessin, le soudeur doit s’assurer que la distance du pas de la soudure soit respectée. Ceci implique que si la distance entre le centre de la dernière soudure et l’extrémité du joint est plus grande que la distance du pas indiqué, on doit alors faire une soudure de la longueur prescrite.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l1-p12.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure discontinue à éléments opposés sur préparation à bord droit.<br /><br />Le chiffre 25 situé à la droite du symbole de soudure indique la longueur de la soudure. Le chiffre 100 situé après le tiret indique le pas de soudure soit la distance centre à centre entre chaque soudure.  La soudure doit être exécutée des deux côtés du joint où pointe la flèche et être opposée de chaque côté du joint.<br /><br />Lorsque l’on utilise une soudure discontinue et que l’on veut que les extrémités du joint soient soudées, on doit ajouter un deuxième symbole de soudage afin de l’indiquer sur le dessin.<br /><br />Si ce deuxième symbole n’apparaît pas sur le dessin, le soudeur doit s’assurer que la distance du pas soit respectée. Ceci implique que si la distance entre le centre de la dernière soudure et l’extrémité du joint est plus grande que la distance du pas indiqué, on doit alors faire une soudure de la longueur prescrite.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l1-p13.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure discontinue à éléments alternés sur préparation à bord droit.<br /><br />Le chiffre 25 situé à la droite du symbole de soudure indique la longueur de la soudure. Le chiffre 100 situé après le tiret indique le pas de soudure. La soudure doit être exécutée des deux côtés du joint où pointe la flèche et alterner d’un côté à l’autre côté du joint. Cette soudure doit débuter du côté du joint dont le symbole de soudure est situé le plus à gauche sur la ligne de référence.<br /><br />Lorsque l’on utilise une soudure discontinue et que l’on veut que les extrémités du joint soient soudées, on doit ajouter un deuxième symbole de soudage afin de l’indiquer sur le dessin.<br /><br />Si ce deuxième symbole n’apparaît pas sur le dessin, le soudeur doit s’assurer que la distance du pas soit respectée. Ceci implique que si la distance entre le centre de la dernière soudure et l’extrémité du joint est plus grande que la distance du pas indiqué, on doit alors faire une soudure de la longueur prescrite.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l1-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour, il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas?<br /><br />Alors que diriez-vous de mettre toutes ces notions en pratique? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur la soudure sur chant.<br /><br />Cliquez sur le bouton « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l1-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 16" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l1-p16.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 17" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l1-p17.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 18" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l1-p18.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 19" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l1-p19.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 20" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l1-p20.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations ! Vous terminez la première leçon du module 3.<br /><br />Lors de la prochaine leçon, nous traiterons de soudure en bouchon. C’est un rendez-vous à ne pas manquer !<br /><br />Au plaisir de se revoir…]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>

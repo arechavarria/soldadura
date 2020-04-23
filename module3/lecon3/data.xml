@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Soudure sur chant, soudure en bouchon et soudure en entaille (TM)" duree="8 minutes">
+	<LESSON nom="Soudure en entaille">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l3-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue à cette troisième leçon du troisième module.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l3-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l3-p3.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[La soudure en entaille est similaire à la soudure en bouchon à plusieurs niveaux :<br /><br />- Une soudure en entaille est toujours exécutée sur un assemblage à recouvrement en pleine tôle plutôt qu’au joint de rencontre de deux pièces.<br /><br />- On doit percer l’une des deux tôles afin d’exécuter la soudure.<br /><br />- On utilise le même symbole de soudage pour identifier une soudure en entaille et une soudure en bouchon.<br /><br />On pourrait dire qu’une soudure en entaille est un peu comme une soudure en bouchon allongée.<br /><br />Voici un assemblage à recouvrement avec soudure en entaille du côté de l’assemblage où la flèche pointe ainsi que le symbole de soudage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l3-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure en entaille du côté de l’assemblage où la flèche pointe.<br /><br />Voici maintenant l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l3-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure en entaille du côté de l’assemblage où la flèche pointe. Le chiffre 20 situé à la gauche du symbole de soudure en entaille indique la largeur prescrite de l’entaille.<br /><br />Et voici l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l3-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure en entaille du côté de l’assemblage où la flèche pointe. Le chiffre 75 situé à la droite du symbole de soudure en entaille indique la longueur prescrite de l’entaille.<br /><br />Voici maintenant l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l3-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure en entaille du côté de l’assemblage où la flèche pointe. Le chiffre 200 situé après le tiret à droite du  symbole de soudure en entaille indique le pas de la soudure.<br /><br />Voici ensuite l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l3-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure en entaille du côté de l’assemblage où la flèche pointe. Le chiffre 3 entre parenthèses situé au-dessous du symbole de soudure en entaille indique le nombre de soudure à exécuter.<br /><br />Voici maintenant le premier de deux assemblages correspondants.<br /><br />Et voici le deuxième. Ici, les entailles sont dans une autre orientation par rapport à la pièce.<br /><br />L’orientation des entailles doit être indiquée sur le dessin d’assemblage.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l3-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole représente une synthèse des 6 symboles de soudure en entaille présentés précédemment, soit trois soudures en entaille. Chaque soudure doit  avoir une largeur de 20 millimètres, une longueur de 75 millimètres, une épaisseur de 2 millimètres et un pas de 200 millimètres.<br /><br />Il est à noter que lorsque plus de deux pièces doivent être jointes ensemble par une soudure en entaille, on doit indiquer sur le dessin d’assemblage les pièces qui devront être percées. ]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l3-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour, il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas?<br /><br />Alors que diriez-vous de mettre toutes ces notions en pratique? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur la soudure en entaille.<br /><br />Cliquez sur « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 112" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l3-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l3-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l3-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l3-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l3-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+
+		<SCENE nom="Page 16" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l3-p16.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations, vous avez terminé la troisième leçon du module 3.<br /><br />Lors du prochain module, nous traiterons de soudure par points, de soudure à la molette et de soudure de goujon.<br /><br />C’est un rendez-vous à ne pas manquer. Au plaisir de se revoir !]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>

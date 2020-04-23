@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Soudure sur chant, soudure en bouchon et soudure en entaille (TM)" duree="9 minutes">
+	<LESSON nom="Soudure en bouchon">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l2-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue à cette deuxième leçon du troisième module.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l2-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l2-p3.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Une soudure en bouchon est toujours exécutée sur un assemblage à recouvrement en pleine tôle plutôt qu’au joint de rencontre de deux pièces. Pour exécuter une soudure en bouchon, on doit percer une des deux tôles et exécuter la soudure. Voici un assemblage à recouvrement avec soudure en bouchon. Les lignes obliques indiquent que cet assemblage a été coupé dans la ligne d’axe des soudures en bouchon afin de vous  permettre de bien voir le profil de la soudure en bouchon.<br /><br />Voici le symbole de soudure en bouchon du côté du joint où la flèche pointe, ainsi que l’assemblage avant et après soudage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l2-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure en bouchon du côté de l’assemblage où la flèche pointe.<br /><br />Voici maintenant l’assemblage avant et après soudage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l2-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure en bouchon de l’autre côté de l’assemblage où la flèche pointe.<br /><br />Voici ensuite l’assemblage avant et après soudage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l2-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure en bouchon du côté de l’assemblage où la flèche pointe. Le chiffre 15 situé à la gauche du symbole de soudure en bouchon indique le diamètre du trou prescrit.<br /><br />Voici maintenant l’assemblage avant et après soudage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l2-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure en bouchon du côté de l’assemblage où la flèche pointe. Le chiffre 4 situé dans le symbole de soudure en bouchon indique l’épaisseur de la soudure. Si l’épaisseur de la soudure est inférieure à celle de la tôle qui doit être percée, on devra alors indiquer l’épaisseur.<br /><br />Voici ensuite l’assemblage avant et après soudage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l2-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure en bouchon du côté de l’assemblage où la flèche pointe. Le chiffre 5 entre parenthèses situé au-dessous du symbole de soudure en bouchon indique la quantité de soudure en bouchon prescrite.<br /><br />Voici maintenant l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l2-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure en bouchon du côté de l’assemblage où la flèche pointe. Le chiffre 25 situé à droite du symbole de soudure en bouchon indique le pas des soudures en bouchon, soit la distance centre à centre des soudures.<br /><br />Voici maintenant l’assemblage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l2-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole représente une synthèse des 5 symboles de soudure en bouchon présentés précédemment : 5  soudures en bouchon avec un pas de 25 millimètres, un diamètre de 15 millimètres et une épaisseur de soudure de 4 millimètres.<br /><br />Il est à noter que lorsque plus de deux pièces doivent être jointes ensemble par une soudure en bouchon, on doit indiquer sur le dessin les pièces qui devront être trouées.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l2-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour, il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas?<br /><br />Alors que diriez-vous de mettre toutes ces notions en pratique? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur la soudure en bouchon.<br /><br />Cliquez sur le bouton « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l2-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l2-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l2-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l2-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 16" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m3-l2-p16.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+
+		<SCENE nom="Page 17" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m3-l2-p17.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations, vous terminez la deuxième leçon du module 3.<br /><br />Au cours de la prochaine leçon, nous traiterons de soudure en entaille.<br /><br />C’est un rendez-vous à ne pas manquer. Au plaisir de se revoir !]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>
