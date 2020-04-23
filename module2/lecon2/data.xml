@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Soudure bout à bout, soudure d’angle et brasage" duree="12 minutes">
+	<LESSON nom="Soudure d'angle">
+		<SCENE nom="Page 1" typeTemplate="externe"  controleExterne="true">
+			<SOURCE>data/m2-l2-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue à cette deuxième leçon du module 2.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m2-l2-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m2-l2-p3.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[La soudure d’angle est utilisée sur l’assemblage en T, sur l’assemblage en L ainsi que sur l’assemblage à recouvrement.<br /><br />Pour une soudure d’angle sur assemblage en T, plusieurs préparations peuvent être exécutées.<br /><br />On peut obtenir :<br /><br />- Une préparation sur bord droit;<br />- Une préparation en demi-V;<br />- Une préparation en demi-V double;<br />- Une préparation en J;<br />- Une préparation en J double.<br /><br />Pour une soudure d’angle sur assemblage en L, plusieurs préparations peuvent être exécutées.<br /><br />On peut obtenir :<br /><br />- Une préparation sur bord droit;<br />- Une préparation en demi-V;<br />- Une préparation en demi-V double;<br />- Une préparation en J;<br />- Une préparation en J double;<br />- Une préparation en U.<br /><br />Pour une soudure d’angle sur assemblage à recouvrement, seule la préparation à bord droit peut être exécutée.<br /><br />Pour les soudures d’angle sur tôle mince, on utilisera principalement une préparation sur bord droit, avec ou sans espacement entre les tôles.<br /><br />Puisque la tôle est mince, il est facile d’obtenir une soudure avec pénétration acceptable, ce qui permet au joint de soudure de rencontrer les propriétés mécaniques escomptées sans faire de préparation en demi-V, en demi-V double, en J, en J double ou en U.<br /><br />C’est pourquoi, dans cette leçon, nous traiterons principalement de soudure d’angle sur préparation à bord droit.<br /><br />Les soudures d’angle avec les autres préparations seront traitées dans le module 6.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure d’angle, ainsi que l’assemblage T correspondant. Ce symbole représente la soudure du côté du joint où la flèche pointe.<br /><br />Voici maintenant l’assemblage à recouvrement correspondant. Ce symbole représente la soudure du côté du joint où la flèche pointe.<br /><br />Voici finalement l’assemblage en L correspondant. Ce symbole représente la soudure du côté du joint où la flèche pointe.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure d’angle, ainsi que l’assemblage T correspondant. Ce symbole représente la soudure de l’autre côté du joint où la flèche pointe.<br /><br />Voici maintenant l’assemblage à recouvrement correspondant. Ce symbole représente la soudure de l’autre côté du joint où la flèche pointe.<br /><br />Voici finalement l’assemblage en L correspondant. Ce symbole représente la soudure de l’autre côté du joint où la flèche pointe.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole de soudage représentant une soudure d’angle, ainsi que l’assemblage en T correspondant. Ce symbole représente la soudure des deux côtés du joint où la flèche pointe.<br /><br />Voici ensuite l’assemblage à recouvrement correspondant. Ce symbole représente la soudure des deux côtés du joint où la flèche pointe.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure d’angle.<br /><br />Le chiffre 2 situé entre les lignes du symbole de soudure indique la valeur demandée pour l’espacement entre les tôles. La soudure doit être exécutée des deux côtés du joint où la flèche pointe.<br /><br />Voici maintenant l’assemblage en T correspondant. Ce symbole représente la soudure des deux côtés du joint où la flèche pointe.<br /><br />Finalement, voici l’assemblage à recouvrement correspondant. Ce symbole représente la soudure des deux côtés du joint où la flèche pointe.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p8.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure d’angle.<br /><br />Le chiffre 5, situé à la gauche du symbole de soudure indique la grosseur du cordon de soudure. La soudure doit être exécutée du côté du joint où la flèche pointe.<br /><br />Voici à présent l’assemblage en T correspondant. Ce symbole représente la soudure du côté du joint où la flèche pointe.<br /><br />Voici ensuite l’assemblage à recouvrement correspondant. Ce symbole représente la soudure du côté du joint où la flèche pointe.<br /><br />Voici finalement l’assemblage en L correspondant. Ce symbole représente la soudure du côté du joint où la flèche pointe.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p9.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure d’angle.<br /><br />Le chiffre 5 x 8, situé à la gauche du symbole de soudure indique la grosseur du cordon de soudure. Cette soudure est asymétrique. Le chiffre 5 indique la hauteur du cordon de soudure, tandis que le chiffre 8 indique la largeur du cordon de soudure. La soudure doit être exécutée du côté du joint où la flèche pointe.<br /><br />Voici maintenant l’assemblage correspondant. Ce symbole représente la soudure du côté du joint où la flèche pointe.<br /><br />Vient ensuite l’assemblage à recouvrement correspondant. Ce symbole représente la soudure du côté du joint où la flèche pointe.<br /><br />Finalement, voici l’assemblage en L correspondant. Ce symbole représente la soudure du côté du joint où la flèche pointe.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p10.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure d’angle discontinue.<br /><br />Le chiffre 50 situé à la droite du symbole de soudure indique la longueur de la soudure. Le chiffre 200 situé après le tiret indique le pas de la soudure. Le pas d’une soudure est la distance centre à centre entre chaque soudure. La soudure doit être exécutée du côté du joint où la flèche pointe.<br /><br />Lorsque l’on utilise une soudure discontinue et que l’on veut que les extrémités du joint soient soudées, on doit ajouter un deuxième symbole de soudage et l’indiquer sur le dessin.<br /><br />Si ce deuxième symbole n’apparaît pas sur le dessin, le soudeur doit s’assurer que la distance du pas de la soudure soit respectée. Ceci implique que si la distance entre le centre de la dernière soudure et l’extrémité du joint est plus petite que la distance du pas indiqué, on doit alors faire une soudure de la longueur prescrite.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p11.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure d’angle discontinue à éléments opposés.<br /><br />Le chiffre 50 situé à la droite du symbole de soudure indique la longueur de la soudure. Le chiffre 200 situé après le tiret indique le pas de soudure, soit la distance centre à centre entre chaque soudure. La soudure doit être exécutée des deux côtés du joint où la flèche pointe et elle doit être opposée de chaque côté du joint.<br /><br />Lorsque l’on utilise une soudure discontinue et que l’on veut que les extrémités du joint soient soudées, on doit ajouter un deuxième symbole de soudage afin de l’indiquer sur le dessin.<br /><br />Si ce deuxième symbole n’apparaît pas sur le dessin, le soudeur doit s’assurer que la distance du pas soit respectée. Ceci implique que si la distance entre le centre de la dernière soudure et l’extrémité du joint est plus petite que la distance du pas indiqué, on devra alors faire une soudure de la longueur prescrite.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p12.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Ce symbole de soudage représente une soudure d’angle discontinue à éléments alternés.<br /><br />Le chiffre 50 situé à la droite du symbole de soudure indique la longueur de la soudure. Le chiffre 200 situé après le tiret indique le pas de soudure. La soudure doit être exécutée des deux côtés du joint où la flèche pointe et elle doit alterner d’un côté à l’autre du joint. Cette soudure doit débuter du côté du joint dont le symbole de soudure est le plus à gauche sur la ligne de référence.<br /><br />Lorsque l’on utilise une soudure discontinue et que l’on veut que les extrémités du joint soient soudées, on doit ajouter un deuxième symbole de soudage afin de l’indiquer sur le dessin.<br /><br />Si ce deuxième symbole n’apparaît pas sur le dessin, le soudeur doit s’assurer que la distance du pas soit respectée. Ceci implique que si la distance entre le centre de la dernière soudure et l’extrémité du joint est plus petite que la distance du pas indiqué, on devra alors faire une soudure de la longueur prescrite.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m2-l2-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour, il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas?<br /><br />Alors que diriez-vous de mettre toutes ces notions en pratique? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur la soudure d'angle.<br /><br />Cliquez sur le bouton « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 16" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p16.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 17" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p17.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 18" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l2-p18.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 19" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m2-l2-p19.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations, vous terminez la deuxième leçon du module 2.<br /><br />Dans la prochaine leçon, nous traiterons de brasage.<br /><br />C’est un rendez-vous à ne pas manquer. Au plaisir de se revoir !]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>

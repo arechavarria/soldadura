@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MODULE nom="Soudure bout à bout, soudure d’angle et brasage (TM)" duree="9 minutes">
+	<LESSON nom="Brasage">
+		<SCENE nom="Page 1" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m2-l3-p1.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour et bienvenue à cette troisième leçon du module 2.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 2" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m2-l3-p2.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 3" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m2-l3-p3.swf</SOURCE>
+			<NARRATION scroll="true">
+				<LETEXTE><![CDATA[Regardons ensemble la définition du brasage selon la norme W375 de l’ACNOR...<br /><br />« Opération de soudage dans laquelle la liaison est obtenue à l’aide d’un métal d’apport en phase liquide ayant un liquidus inférieur au solidus des matériaux à réunir et mouillant les surfaces à joindre qui ne participent pas par fusion à la constitution du joint. En plus des phénomènes de mouillage, cette opération peut, dans certains cas, faire intervenir aussi des phénomènes de capillarités. »<br /><br />En d’autres termes, le point de fusion du métal d’apport (la baguette) est inférieur au point de fusion des métaux de base (les pièces à joindre), ce qui implique que le métal en fusion de la baguette d’apport adhère à la surface des pièces qui elles ne sont pas en fusion.<br /><br />L’ensemble des symboles de soudage peut être utilisé pour identifier des brasures.<br /><br />Pour les brasures où aucune préparation n’est nécessaire, on peut utiliser les symboles de base ainsi que le symbole du procédé dans la queue.<br /><br />Par contre, à cause des caractéristiques des brasures, les propriétés mécaniques de ces dernières sont moindres que celles des soudures. Pour la majorités des brasures, on doit préparer les surfaces afin d’obtenir des propriétés mécaniques maximales.<br /><br />Les surfaces en contact des pièces à joindre, qui forment la zone de liaison, sont plus importantes que la grosseur du cordon de la brasure afin d’atteindre les propriétés mécaniques maximales.<br /><br />Pour ces raisons, la longueur et l’espacement de la zone de liaison doivent être contrôlés à l’intérieur des valeurs de tolérance.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 4" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l3-p4.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole représentant une brasure sur préparation bout à bout avec un espacement de 4 à 8 millièmes de pouce dans la zone de liaison, ainsi que l’assemblage avant et après brasage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 5" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l3-p5.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole représentant une brasure sur préparation bout à bout à onglet à 30 degrés avec un espacement de 4 à 8 millièmes de pouce dans la zone de liaison, ainsi que l’assemblage avant et après brasage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 6" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l3-p6.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Voici le symbole représentant une brasure avec un espacement de 5 à 10 millièmes de pouce dans la zone de liaison, ainsi que l’assemblage en T avant et après brasage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 7" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l3-p7.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole représente une brasure d’angle sur un assemblage à recouvrement à bord relevé avec un espacement de 2 à 4 millièmes de pouce dans la zone de liaison. Cette dernière est ici de 3 fois l’épaisseur de la pièce plus le rayon. La grosseur de la brasure d’angle est de 80 millièmes de pouce du côté du joint où la flèche pointe.<br /><br />Voici maintenant l’assemblage avant et après brasage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 8" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l3-p8.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole représente une brasure sur un assemblage à recouvrement  avec un espacement de 2 à 4 millièmes de pouce dans la zone de liaison. La longueur de cette dernière se situe ici entre 160 et 170 millièmes de pouce. La grosseur de la brasure d’angle est de 80 millièmes de pouce du côté du joint où la flèche pointe.<br /><br />Voici maintenant l’assemblage après brasage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 9" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l3-p9.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Ce symbole représente une brasure sur un assemblage à recouvrement à bord relevé. La longueur de la zone de liaison est égale aU rayon du tube. La grosseur de la brasure d’angle est de 80 millièmes de pouce des deux côtés du joint où la flèche pointe.<br /><br />Et voici l’assemblage avant et après brasage correspondant.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 10" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m2-l3-p10.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Bonjour, il me fait plaisir de vous revoir. Beaucoup d’informations, n’est-ce pas?<br /><br />Alors que diriez-vous de mettre toutes ces notions en pratique? Je crois maintenant que vous êtes prêts pour quelques exercices. Allons-y pour cinq questions sur le brasage.<br /><br />Cliquez sur le bouton « Page suivante » pour passer à la question 1.]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 11" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l3-p11.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 12" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l3-p12.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 13" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l3-p13.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 14" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l3-p14.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 15" typeTemplate="externe" controleExterne="false">
+			<SOURCE>data/m2-l3-p15.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE></LETEXTE>
+			</NARRATION>
+		</SCENE>
+		<SCENE nom="Page 16" typeTemplate="externe" controleExterne="true">
+			<SOURCE>data/m2-l3-p16.swf</SOURCE>
+			<NARRATION scroll="">
+				<LETEXTE><![CDATA[Félicitations, vous avez terminé la troisième leçon du module 2.<br /><br />Dans le prochain module, nous traiterons de soudure sur chant, de soudure en bouchon et de soudure en entaille.<br /><br />C’est un rendez-vous à ne pas manquer ! Au plaisir de se revoir…]]></LETEXTE>
+			</NARRATION>
+		</SCENE>
+	</LESSON>
+</MODULE>
